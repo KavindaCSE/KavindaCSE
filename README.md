@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavinda Samarawickkrama</h1>
 <h3 align="center">I'm an undergraduate student specializing in Computer Science and Engineering at the University of Moratuwa, with a passion for Machine Learning and Software Engineering</h3>
-<img align="right" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxdwVeGXmPb9rdESKVRt7TgZDdwVwfE_j0w&s"/>
+<img align="right" width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindacse&label=Profile%20views&color=0e75b6&style=flat" alt="kavindacse" /> </p>
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavinda-samarawickkrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-samarawickkrama" height="30" width="40" /></a>
-<a href="https://kaggle.com/kavinda-210282c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinda-210282c" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavinda-samarawickkrama-b82336300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-samarawickkrama" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kavinda210282cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinda-210282c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
